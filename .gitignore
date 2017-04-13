@@ -28,8 +28,9 @@ Builds/
 *.pdb
 
 # +++++++++++++++++++++++++++++++ #
-# custom
+# custom - just import these from the Asset Store, because they are too large.
 # +++++++++++++++++++++++++++++++ #
 Assets/Imported_Assets/Arkham\ Interactive*
 Assets/UBER*
 Assets/_all_skyboxes/Wispy Sky*
+Assets/uShader*
